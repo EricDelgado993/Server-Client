@@ -12,7 +12,7 @@ client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect(ADDR)
 
 def receive_messages():
-    """ Function to receive messages from the server """
+    # Function to receive messages from the server
     while True:
         try:
             message = client.recv(2048).decode(FORMAT)
@@ -22,7 +22,7 @@ def receive_messages():
             break
 
 def send(msg):
-    """ Function to send messages to the server """
+    # Function to send messages to the server
     message = msg.encode(FORMAT)
     msg_length = len(message)
     send_length = str(msg_length).encode(FORMAT)
