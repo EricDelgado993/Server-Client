@@ -2,9 +2,9 @@
 <br>This program establishes a basic client-server architecture, enabling two-way communication between the server and multiple clients. The server listens for incoming client connections and responds to various client requests, allowing for real-time data exchange and controlled interactions. Ideal for demonstrating the fundamentals of networking and socket programming.
 
 <br><b>Project Files</b></br>
-  - [Server Program](https://github.com/EricDelgado993/Dynamic-Movement/blob/main/Dynamic%20Movement%20Project/Dynamic%20Character%20Movement.py)
-  - [Client Program](https://github.com/EricDelgado993/Dynamic-Movement/blob/main/Dynamic%20Movement%20Project/Character%20Movement%20Plot%20Data.txt)
-  - [Demo Video](https://github.com/EricDelgado993/Dynamic-Movement/blob/main/Dynamic%20Movement%20Project/Character%20Movement%20Plot%20Data.txt)
+  - [Server Program](https://github.com/EricDelgado993/Server-Client/blob/main/Client%20Server%20Program/Server.py)
+  - [Client Program](https://github.com/EricDelgado993/Server-Client/blob/main/Client%20Server%20Program/Client.py)
+  - [Demo Video](https://github.com/EricDelgado993/Server-Client/blob/main/Client%20Server%20Program/Demo.mp4)
 
 <br><b>Features</b></br>
   - <b>Multi-Client Support:</b> Connect multiple clients to the server simultaneously.
