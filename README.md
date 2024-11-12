@@ -1,5 +1,5 @@
-<b>Server-Client Communication Program</b>
-<br>This program establishes a basic server-client architecture, enabling two-way communication between the server and multiple clients. The server listens for incoming client connections and responds to various client requests, allowing for real-time data exchange and controlled interactions. Ideal for demonstrating the fundamentals of networking and socket programming.
+<b>Client-Server Communication Program</b>
+<br>This program establishes a basic client-server architecture, enabling two-way communication between the server and multiple clients. The server listens for incoming client connections and responds to various client requests, allowing for real-time data exchange and controlled interactions. Ideal for demonstrating the fundamentals of networking and socket programming.
 
 <br><b>Project Files</b></br>
   - [Server Program](https://github.com/EricDelgado993/Dynamic-Movement/blob/main/Dynamic%20Movement%20Project/Dynamic%20Character%20Movement.py)
