@@ -5,7 +5,7 @@ The **Client-Server Communication Program** demonstrates a basic client-server a
 
 ---
 
-## Project Files
+## 📂 Project Files
 - [Server Program](https://github.com/EricDelgado993/Server-Client/blob/main/Client%20Server%20Program/Server.py) - Implements server-side logic for handling client connections and processing requests.
 - [Client Program](https://github.com/EricDelgado993/Server-Client/blob/main/Client%20Server%20Program/Client.py) - Provides the client-side interface to connect with the server and send commands.
 - [Demo Video](https://github.com/EricDelgado993/Server-Client/blob/main/Client%20Server%20Program/Demo.mp4) -  A visual demonstration of the program in action.
