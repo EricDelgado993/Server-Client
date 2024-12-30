@@ -23,7 +23,7 @@ The **Client-Server Communication Program** demonstrates a basic client-server a
 ### Message Broadcasting
 - The server can broadcast messages to all connected clients.
 
-### ⚙Error Handling
+### Error Handling
 - Includes basic error handling to manage:
   - Unexpected client disconnections.
   - Invalid or malformed requests.
